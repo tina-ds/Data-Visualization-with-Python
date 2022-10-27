@@ -4,3 +4,4 @@ One of the most important skills of successful data scientists and data analysts
 I learned how to create different types of basic and advanced graphs and charts, such as: waffle charts, area charts, column charts, column charts, pie charts, scatter charts, word clouds, cartograms and more! I also gained hands-on experience in creating interactive dashboards.
 
 I have used various Python data visualization libraries including Matplotlib, Seaborn, Folium, Plotly and Dash.
+![4](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c3370e6e6093a8ac81613432b3acb2ab48ac8cf5/4.jpg)
