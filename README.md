@@ -12,7 +12,7 @@ I have used various Python data visualization libraries including Matplotlib, Se
 3. Basic Plotly Charts
 4. Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0
 
-![](https://github.com/tina-ds/Data-Visualization-with-Python/blob/324780b6ef7d3d32930f2cd7f40279c04d1e17e1/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard.gif)
+![Dashboard](https://github.com/tina-ds/Data-Visualization-with-Python/blob/de510224406d64ce8df0d83786343fd49901c215/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard/Dashboard.gif)
 ![output_Alice](https://github.com/tina-ds/Data-Visualization-with-Python/blob/519027e865583e877d267222a4753af5d2d9dcf6/output_Alice.png)
 ![4](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c3370e6e6093a8ac81613432b3acb2ab48ac8cf5/4.jpg)
 ![output](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c262f4e5142674679f36a8f819bc838c53882df5/output.png)
