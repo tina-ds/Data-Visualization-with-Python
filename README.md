@@ -12,9 +12,8 @@ I have used various Python data visualization libraries including Matplotlib, Se
 3. Basic Plotly Charts
 4. Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0
 
+
 ![output_Alice](https://github.com/tina-ds/Data-Visualization-with-Python/blob/519027e865583e877d267222a4753af5d2d9dcf6/output_Alice.png)
 ![4](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c3370e6e6093a8ac81613432b3acb2ab48ac8cf5/4.jpg)
-![/US%20Domestic%20Airline%20Flights%20Performance](https://github.com/tina-ds/Data-Visualization-with-Python/blob/98c6bf2f4abbcd3eaa2a63389b5185dd45b684e2/US%20Domestic%20Airline%20Flights%20Performance.png)
 ![output](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c262f4e5142674679f36a8f819bc838c53882df5/output.png)
-![Airline%20Performance%20Dashboard.png](https://github.com/tina-ds/Data-Visualization-with-Python/blob/9ec9323193a787b988c6495d9af3a4fbab1a38f8/Airline%20Performance%20Dashboard.png.jpg)
 ![newplot](https://github.com/tina-ds/Data-Visualization-with-Python/blob/519027e865583e877d267222a4753af5d2d9dcf6/newplot.png)
