@@ -7,11 +7,11 @@ I have used various Python data visualization libraries including Matplotlib, Se
 
 ## Contents of the repository
 
-1. [US Domestic Aircraft Flights Statistics Dashboard](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard/app.py)
-2. [Generating Maps with Python](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Generating%20Maps%20with%20Python.ipynb)
-3. [Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb)
-4. [Basic Plotly Charts](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Plotly_Basics.ipynb)
-5. [Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb)
+[1. US Domestic Aircraft Flights Statistics Dashboard](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard/app.py)\
+[2. Generating Maps with Python](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Generating%20Maps%20with%20Python.ipynb)\
+[3. Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots.ipynb)\
+[4. Basic Plotly Charts](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Plotly_Basics.ipynb)\
+[5. Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0](https://github.com/tina-ds/Data-Visualization-with-Python/blob/c269bfcb0c97fb901b0b7a6035fddafa900a07c0/Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb)
 
 ![Dashboard](https://github.com/tina-ds/Data-Visualization-with-Python/blob/de510224406d64ce8df0d83786343fd49901c215/US%20Domestic%20Aircraft%20Flights%20Statistics%20Dashboard/Dashboard.gif)
 ![output_Alice](https://github.com/tina-ds/Data-Visualization-with-Python/blob/519027e865583e877d267222a4753af5d2d9dcf6/output_Alice.png)
